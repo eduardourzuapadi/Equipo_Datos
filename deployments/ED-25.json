@@ -1,0 +1,8 @@
+{
+  "jira_issue": "ED-25",
+  "repository": "eduardourzuapadi/Equipo_Datos",
+  "environment": "certificacion",
+  "deployment_type": "dummy",
+  "status": "deployed-to-certification",
+  "generated_at": "2026-11-18T01:33:13.359Z"
+}
